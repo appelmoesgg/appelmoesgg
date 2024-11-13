@@ -10,7 +10,7 @@ info@appelmoesgg ~: userinfo --all
 - 🛠 Helping others who are learning to code
 - 🎉 Making random stuff just for fun
 
-### Contact Me
+Any questions? -> Contact me
 - **GitHub**: [appelmoesgg](https://github.com/appelmoesgg)
 - **Discord**: [appelmoesgg](https://discordapp.com/users/725019364755243038)
 
