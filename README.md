@@ -1,16 +1,17 @@
-## Hi there 👋
+```
+info@appelmoesgg ~: whoami
+appelmoesgg\info
+info@appelmoesgg ~: userinfo --all
+```
+---
 
-<!--
-**appelmoesgg/appelmoesgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 💻 Interested in **game exploits** (and maybe cheats lol) and creative coding
+- 🛠 Helping others who are learning to code
+- 🎉 Making random stuff just for fun
 
-Here are some ideas to get you started:
+### Contact Me
+- **GitHub**: [appelmoesgg](https://github.com/appelmoesgg)
+- **Discord**: [appelmoesgg](https://discordapp.com/users/725019364755243038)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting!
