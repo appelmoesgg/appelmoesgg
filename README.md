@@ -1,12 +1,12 @@
 ```
 info@appelmoesgg ~: whoami
 appelmoesgg\info
-info@appelmoesgg ~: userinfo --all
+info@appelmoesgg ~: userinfo --all --output markdown
 ```
 ---
 
 ## About Me
-- 💻 Interested in **game exploits** (and maybe cheats lol) and creative coding
+- 💻 Interested in **internal workings of games** (and finding ways to mess with it)
 - 🛠 Helping others who are learning to code
 - 🎉 Making random stuff just for fun
 
