@@ -25,3 +25,4 @@ Thanks for visiting!
 Rendering complete! Exiting...
 info@appelmoesgg ~: █
 ```
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=appelmoesgg)
