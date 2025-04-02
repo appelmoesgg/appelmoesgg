@@ -1,7 +1,10 @@
 ```
 info@appelmoesgg ~: whoami
 appelmoesgg\info
+info@appelmoesgg ~: bash currentproject.sh
+Current project: snapenhance-web-gui
 info@appelmoesgg ~: userinfo --all --output markdown
+Rendering aboutme.MD ...
 ```
 ---
 
@@ -15,3 +18,10 @@ info@appelmoesgg ~: userinfo --all --output markdown
 - **Discord**: [appelmoesgg](https://discordapp.com/users/725019364755243038)
 
 Thanks for visiting!
+
+---
+
+```
+Rendering complete! Exiting...
+info@appelmoesgg ~: █
+```
